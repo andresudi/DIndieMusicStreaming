@@ -56,21 +56,3 @@ contract DmusicUser {
         return customerList[customerAddress];
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
