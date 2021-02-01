@@ -14,7 +14,7 @@ Decentralized Music Streaming smart contract using ERC20 token
 
 ### USP of this blockchain based solution
 
-* Users / fans can pay directly to the indie artists (who receive almost 100% of the revenue, 90% to the artist 10% to the developer) without interference with 3rd party to get full access of their music. but also free access feature is still used to get music teaser from the artist but random like spotify did.
+* Users / fans can pay directly to the indie artists (who receive almost 100% of the revenue, 90% to the artist 10% to the developer) without interference with third party to get full access of their music. but also free access feature is still used to get music teaser from the artist but random like spotify did.
 * When songs get reviewed by users/customers. The user will get benefit cashback discount (for example: 10%) for next purchase to the same artist limited to one review per song.
   
 # Flowchart
